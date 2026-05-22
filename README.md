@@ -14,7 +14,7 @@ This repository exists to give AI coding agents accurate, verified hardware cont
 Hardware Documentation/
 └── ESP32-P4/
     └── JC8012P4A1C/
-        └── JC8012P4A1C.md    # Guition 8" ESP32-P4 board — full hardware reference
+        └── JC8012P4A1C.md    # Guition 10.1" ESP32-P4 board — full hardware reference
 ```
 
 ## Conventions

@@ -1,6 +1,6 @@
 # Guition JC8012P4A1C
 
-8" ESP32-P4 development board with MIPI DSI display, ESP32-C6 Wi-Fi co-processor, touch, camera, and audio.
+10.1" ESP32-P4 development board with MIPI DSI display, ESP32-C6 Wi-Fi co-processor, touch, camera, and audio.
 
 ## Quick reference
 
